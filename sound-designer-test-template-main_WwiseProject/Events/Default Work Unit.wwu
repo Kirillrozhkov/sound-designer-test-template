@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{452026AA-D601-4328-9C07-351CB903572E}" SchemaVersion="97">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{452026AA-D601-4328-9C07-351CB903572E}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="footsteps" ID="{6A07576B-6E6E-43C6-AC44-B638B633B33F}">
+					<ChildrenList>
+						<Action Name="" ID="{117BD01A-2202-46CB-82A9-06A8733B08A3}" ShortID="170812609">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="footst" ID="{73C937D8-659D-4778-A0B5-BDD9CA0E6038}" WorkUnitID="{7566948E-A688-4DD6-B906-F0B1658D13AD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="ambience" ID="{8BB3A3B6-CFE4-4AD5-A44B-0D489CC9AE91}">
+					<ChildrenList>
+						<Action Name="" ID="{EE9B2119-AE27-41D7-8203-B1E6E90A5B0A}" ShortID="950721773">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="roomtone" ID="{8BABE7CB-1516-454F-B290-0B80416F4095}" WorkUnitID="{7566948E-A688-4DD6-B906-F0B1658D13AD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_lamp" ID="{7F8F3694-56D9-4486-8FC6-C1D8A2E6E850}">
+					<ChildrenList>
+						<Action Name="" ID="{8992B5C9-6B96-4713-AE68-239E080FD246}" ShortID="908128073">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="lamp" ID="{5146E5D7-E0B4-479F-A1FD-C871E1C076E3}" WorkUnitID="{7566948E-A688-4DD6-B906-F0B1658D13AD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_music" ID="{2AA902B9-279E-4479-94C1-C5CDCD594D44}">
+					<ChildrenList>
+						<Action Name="" ID="{34C89618-3602-4885-B227-DF15EF0893C1}" ShortID="176462674">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="music" ID="{506D0CF8-8A2B-4644-9E4E-D77A4783D54B}" WorkUnitID="{7566948E-A688-4DD6-B906-F0B1658D13AD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="kurtka_beina" ID="{7C4618CC-0B2B-4504-B8DA-4B8E05B393CD}">
+					<ChildrenList>
+						<Action Name="" ID="{6205C379-3A97-4B00-945C-F2971A334D8A}" ShortID="897792386">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Nirvana - Drain You" ID="{98530378-0C3F-48AA-8ED8-E4E3445CDEF7}" WorkUnitID="{7566948E-A688-4DD6-B906-F0B1658D13AD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_party" ID="{BF457A79-6B95-471F-A3BE-BD6A90863651}">
+					<ChildrenList>
+						<Action Name="" ID="{9458842E-43DF-4BC5-81CE-9EEB63211C47}" ShortID="1007231624">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="party" ID="{125E4296-93F7-4AD0-9419-B9FC602C9759}" WorkUnitID="{7566948E-A688-4DD6-B906-F0B1658D13AD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="baby" ID="{73A10A94-8A4C-4DD1-A5F6-45E30DF5C749}">
+					<ChildrenList>
+						<Action Name="" ID="{2B31F788-D726-44F1-AAE0-A736ED804BEB}" ShortID="129603785">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="baby" ID="{48E6B8C6-C2C6-412F-8CE5-61DACDEB14BB}" WorkUnitID="{7566948E-A688-4DD6-B906-F0B1658D13AD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Dog" ID="{B51200F2-99D3-4588-A4DD-2BFEA6D63ED2}">
+					<ChildrenList>
+						<Action Name="" ID="{E832D44F-2189-4CA3-9C14-A8761F2E5E3C}" ShortID="953688724">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Dog" ID="{22E52465-3501-410D-8E6E-9D45973D15A6}" WorkUnitID="{7566948E-A688-4DD6-B906-F0B1658D13AD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="whistle" ID="{221CC38E-F0D3-414B-96D4-BD80FFD1AB27}">
+					<ChildrenList>
+						<Action Name="" ID="{21E732C6-B0CB-4B04-B980-9EA5F61F8E22}" ShortID="87631492">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="whistle" ID="{9F9A1B88-6D4E-4BFF-8995-413872D27FAC}" WorkUnitID="{7566948E-A688-4DD6-B906-F0B1658D13AD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="birds" ID="{B88CE73D-8D78-4155-B564-4679FCCADEE7}">
+					<ChildrenList>
+						<Action Name="" ID="{B2237449-7542-41AB-8207-18553314FFA0}" ShortID="366030332">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="birds" ID="{41746DFB-95E1-43AE-B542-6A955FAE2CB9}" WorkUnitID="{7566948E-A688-4DD6-B906-F0B1658D13AD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="rats" ID="{AD76DEE3-AAC5-42B9-AA91-C1E9158778E8}">
+					<ChildrenList>
+						<Action Name="" ID="{B4600622-52E3-429F-9791-CC43A5375613}" ShortID="127143978">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="rats" ID="{ED3D32E1-632F-45D5-A9AA-62775C461687}" WorkUnitID="{7566948E-A688-4DD6-B906-F0B1658D13AD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Jumps" ID="{5F90831A-C60E-4C92-8990-7BCF022295A5}">
+					<ChildrenList>
+						<Action Name="" ID="{9A69A086-91B4-4203-86F5-9FFE03FBEBF8}" ShortID="913113580">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Jump" ID="{DE8ECF57-6873-4B35-85E3-36373AEEE5A4}" WorkUnitID="{7566948E-A688-4DD6-B906-F0B1658D13AD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Cat" ID="{6035FC04-C806-468F-B6A0-BFB57A04930B}">
+					<ChildrenList>
+						<Action Name="" ID="{24C02211-FDA9-4FFC-A8E0-7CA1F6C4C888}" ShortID="338083306">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Cat" ID="{107AD838-910F-43F8-82FD-4EB8AE8DC38A}" WorkUnitID="{7566948E-A688-4DD6-B906-F0B1658D13AD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="smoking" ID="{480A91F7-DD00-4D53-8A67-01994E623D92}">
+					<ChildrenList>
+						<Action Name="" ID="{00C6449C-D5F3-4A25-9658-1DF3BABEC5F6}" ShortID="934437273">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="smoking" ID="{1668D198-85A6-4748-96F4-BC5B831E253E}" WorkUnitID="{7566948E-A688-4DD6-B906-F0B1658D13AD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="closed_door" ID="{82C0046E-BC50-4B2D-92CE-2E0AE1A96739}">
+					<ChildrenList>
+						<Action Name="" ID="{7A910324-F7F5-4875-B8B2-6DB4E272E871}" ShortID="57145183">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="closed_door" ID="{47DFE1C1-DBA2-4395-A91E-80D171E3CE2C}" WorkUnitID="{7566948E-A688-4DD6-B906-F0B1658D13AD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="garbage" ID="{7DCBF895-799B-4713-92C9-643F8465F30B}">
+					<ChildrenList>
+						<Action Name="" ID="{D932599D-B335-4F83-BBF8-B6637A95CD34}" ShortID="176577112">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="garbage" ID="{C01EB604-45BD-4662-AF5F-57A29609D149}" WorkUnitID="{7566948E-A688-4DD6-B906-F0B1658D13AD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="door" ID="{861A5D03-BD88-4D44-A4F3-8948EE3707EE}">
+					<ChildrenList>
+						<Action Name="" ID="{00BC68AF-7BBC-4F5A-9E80-1D13D8C60BE0}" ShortID="378438418">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="door" ID="{1EB730CF-E9D3-4DC0-B3F6-18B580C3E8B5}" WorkUnitID="{7566948E-A688-4DD6-B906-F0B1658D13AD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

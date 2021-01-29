@@ -1,0 +1,47 @@
+Event	ID	Name			Wwise Object Path	Notes
+	85412153	ambience			\Default Work Unit\ambience	
+	94788501	kurtka_beina			\Default Work Unit\kurtka_beina	
+	352130103	birds			\Default Work Unit\birds	
+	484286148	closed_door			\Default Work Unit\closed_door	
+	983016379	Cat			\Default Work Unit\Cat	
+	1071740888	Jumps			\Default Work Unit\Jumps	
+	1543097833	baby			\Default Work Unit\baby	
+	1877847629	door			\Default Work Unit\door	
+	2092055118	garbage			\Default Work Unit\garbage	
+	2227957873	rats			\Default Work Unit\rats	
+	2385628198	footsteps			\Default Work Unit\footsteps	
+	2807992953	smoking			\Default Work Unit\smoking	
+	2924581117	whistle			\Default Work Unit\whistle	
+	2932040671	Play_music			\Default Work Unit\Play_music	
+	2992249820	Play_Dog			\Default Work Unit\Play_Dog	
+	4149525078	Play_party			\Default Work Unit\Play_party	
+	4234949920	Play_lamp			\Default Work Unit\Play_lamp	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	16905668	Footsteps, Asphalt, Sneaker, Fast SND0990 5	C:\Users\машина1\Downloads\sound-designer-test-template-main\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Mac\SFX\Footsteps, Asphalt, Sneaker, Fast SND0990 5_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\actmix\footst\Footsteps, Asphalt, Sneaker, Fast SND0990 5		49744
+	28628188	Dog	C:\Users\машина1\Downloads\sound-designer-test-template-main\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Mac\SFX\Animal, Dog, Doberman, Snarling, Growling, Barking SND0580_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\actmix\Dog		1249472
+	39803536	Footsteps, Asphalt, Sneaker, Fast SND0990	C:\Users\машина1\Downloads\sound-designer-test-template-main\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Mac\SFX\Footsteps, Asphalt, Sneaker, Fast SND0990_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\actmix\footst\Footsteps, Asphalt, Sneaker, Fast SND0990		50434
+	53208766	music	C:\Users\машина1\Downloads\sound-designer-test-template-main\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Mac\SFX\Loop022 by bebeto Id-24039_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\actmix\music		5641920
+	76949878	Footsteps, Asphalt, Sneaker, Fast SND0990 4	C:\Users\машина1\Downloads\sound-designer-test-template-main\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Mac\SFX\Footsteps, Asphalt, Sneaker, Fast SND0990 4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\actmix\footst\Footsteps, Asphalt, Sneaker, Fast SND0990 4		51124
+	78124210	Footsteps, Asphalt, Sneaker, Fast SND0990 8	C:\Users\машина1\Downloads\sound-designer-test-template-main\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Mac\SFX\Footsteps, Asphalt, Sneaker, Fast SND0990 8_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\actmix\footst\Footsteps, Asphalt, Sneaker, Fast SND0990 8		54574
+	138732499	baby	C:\Users\машина1\Downloads\sound-designer-test-template-main\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Mac\SFX\Voices, Baby, Crying, Very Sad SND1400_D581E900.wem		\Actor-Mixer Hierarchy\Default Work Unit\actmix\baby		3143822
+	314451308	door	C:\Users\машина1\Downloads\sound-designer-test-template-main\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Mac\SFX\Porte Open Close by Slanesh Id-31768_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\actmix\door		204914
+	322630982	birds	C:\Users\машина1\Downloads\sound-designer-test-template-main\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Mac\SFX\Ambience, Urban, City, Park, Birds, Wind, Distant Traffic SND0017_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\actmix\birds		16934464
+	362733570	roomtone	C:\Users\машина1\Downloads\sound-designer-test-template-main\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Mac\SFX\Room Tone Hall 32X8X3 Ac Long 130626 01 by klankbeeld Id-193017_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\actmix\roomtone		11211252
+	421134193	Nirvana - Drain You	C:\Users\машина1\Downloads\sound-designer-test-template-main\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Mac\SFX\Nirvana - Drain You _F64EC318.wem		\Actor-Mixer Hierarchy\Default Work Unit\actmix\Nirvana - Drain You		39492560
+	424899818	smoking	C:\Users\машина1\Downloads\sound-designer-test-template-main\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Mac\SFX\200129_0009_B5633201.wem		\Actor-Mixer Hierarchy\Default Work Unit\actmix\smoking		1150912
+	463196660	lamp	C:\Users\машина1\Downloads\sound-designer-test-template-main\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Mac\SFX\Old Fluorescent Fixture by jsandvik Id-399365_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\actmix\lamp		1551764
+	482444667	Footsteps, Asphalt, Sneaker, Fast SND0990 3	C:\Users\машина1\Downloads\sound-designer-test-template-main\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Mac\SFX\Footsteps, Asphalt, Sneaker, Fast SND0990 3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\actmix\footst\Footsteps, Asphalt, Sneaker, Fast SND0990 3		53194
+	514152845	party	C:\Users\машина1\Downloads\sound-designer-test-template-main\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Mac\SFX\Sound Of Party2 by soundhunterjulie Id-395314_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\actmix\party		1709816
+	566991818	garbage	C:\Users\машина1\Downloads\sound-designer-test-template-main\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Mac\SFX\200129_0005_43637F52.wem		\Actor-Mixer Hierarchy\Default Work Unit\actmix\garbage		1168532
+	586681340	Rat Gnawing A Rusk by Zabuhailo Id-143250	C:\Users\машина1\Downloads\sound-designer-test-template-main\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Mac\SFX\Rat Gnawing A Rusk by Zabuhailo Id-143250_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\actmix\rats\Rat Gnawing A Rusk by Zabuhailo Id-143250		1400756
+	612044300	Footsteps, Asphalt, Sneaker, Fast SND0990 7	C:\Users\машина1\Downloads\sound-designer-test-template-main\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Mac\SFX\Footsteps, Asphalt, Sneaker, Fast SND0990 7_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\actmix\footst\Footsteps, Asphalt, Sneaker, Fast SND0990 7		54574
+	678129951	Mouse Squeaks by shyguy014 Id-463789	C:\Users\машина1\Downloads\sound-designer-test-template-main\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Mac\SFX\Mouse Squeaks by shyguy014 Id-463789_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\actmix\rats\Mouse Squeaks by shyguy014 Id-463789		2293780
+	709741056	Footsteps, Asphalt, Sneaker, Fast SND0990 6	C:\Users\машина1\Downloads\sound-designer-test-template-main\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Mac\SFX\Footsteps, Asphalt, Sneaker, Fast SND0990 6_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\actmix\footst\Footsteps, Asphalt, Sneaker, Fast SND0990 6		51814
+	746109588	closed_door	C:\Users\машина1\Downloads\sound-designer-test-template-main\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Mac\SFX\200129_0008_0A6E1E1B.wem		\Actor-Mixer Hierarchy\Default Work Unit\actmix\closed_door		342776
+	836620014	Footsteps, Asphalt, Sneaker, Fast SND0990 2	C:\Users\машина1\Downloads\sound-designer-test-template-main\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Mac\SFX\Footsteps, Asphalt, Sneaker, Fast SND0990 2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\actmix\footst\Footsteps, Asphalt, Sneaker, Fast SND0990 2		49744
+	908501038	whistle	C:\Users\машина1\Downloads\sound-designer-test-template-main\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Mac\SFX\Whistling by cemagar Id-120358_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\actmix\whistle		1484848
+	911571356	Footsteps, Asphalt, Sneaker, Fast SND0990 1	C:\Users\машина1\Downloads\sound-designer-test-template-main\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Mac\SFX\Footsteps, Asphalt, Sneaker, Fast SND0990 1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\actmix\footst\Footsteps, Asphalt, Sneaker, Fast SND0990 1		50434
+	923037735	Cat	C:\Users\машина1\Downloads\sound-designer-test-template-main\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Mac\SFX\Cat, Screaming, A by InspectorJ Id-415209_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\actmix\Cat		269076
+	984978243	Jump	C:\Users\машина1\Downloads\sound-designer-test-template-main\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Mac\SFX\jump_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\actmix\Jump		105120
+

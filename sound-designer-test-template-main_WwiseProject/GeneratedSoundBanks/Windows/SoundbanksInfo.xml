@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="135">
+	<RootPaths>
+		<ProjectRoot>C:\Users\машина1\Downloads\sound-designer-test-template-main\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\машина1\Downloads\sound-designer-test-template-main\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\машина1\Downloads\sound-designer-test-template-main\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\машина1\Downloads\sound-designer-test-template-main\sound-designer-test-template-main\sound-designer-test-template-main_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX" Hash="3191913858">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<IncludedAuxBusses>
+				<AuxBus Id="348963653" Name="rever2" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\rever2"/>
+				<AuxBus Id="3144283405" Name="rever" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\rever"/>
+			</IncludedAuxBusses>
+		</SoundBank>
+		<SoundBank Id="4056684167" Language="SFX" Hash="1939388965">
+			<ObjectPath>\SoundBanks\Default Work Unit\Master</ObjectPath>
+			<ShortName>Master</ShortName>
+			<Path>Master.bnk</Path>
+			<IncludedEvents>
+				<Event Id="85412153" Name="ambience" ObjectPath="\Events\Default Work Unit\ambience" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="362733570" Language="SFX">
+							<ShortName>Room Tone Hall 32X8X3 Ac Long 130626 01 by klankbeeld Id-193017.wav</ShortName>
+							<Path>SFX\Room Tone Hall 32X8X3 Ac Long 130626 01 by klankbeeld Id-193017_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1543097833" Name="baby" ObjectPath="\Events\Default Work Unit\baby" MaxAttenuation="4.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="138732499" Language="SFX">
+							<ShortName>Voices, Baby, Crying, Very Sad SND1400.wav</ShortName>
+							<Path>SFX\Voices, Baby, Crying, Very Sad SND1400_D581E900.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="352130103" Name="birds" ObjectPath="\Events\Default Work Unit\birds" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="322630982" Language="SFX">
+							<ShortName>Ambience, Urban, City, Park, Birds, Wind, Distant Traffic SND0017.wav</ShortName>
+							<Path>SFX\Ambience, Urban, City, Park, Birds, Wind, Distant Traffic SND0017_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="983016379" Name="Cat" ObjectPath="\Events\Default Work Unit\Cat" MaxAttenuation="3.000000" DurationType="OneShot" DurationMin="1.525011" DurationMax="1.525011">
+					<IncludedMemoryFiles>
+						<File Id="923037735" Language="SFX">
+							<ShortName>Cat, Screaming, A by InspectorJ Id-415209.wav</ShortName>
+							<Path>SFX\Cat, Screaming, A by InspectorJ Id-415209_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="484286148" Name="closed_door" ObjectPath="\Events\Default Work Unit\closed_door" MaxAttenuation="3.000000" DurationType="OneShot" DurationMin="1.784959" DurationMax="1.784959">
+					<IncludedMemoryFiles>
+						<File Id="746109588" Language="SFX">
+							<ShortName>200129_0008.wav</ShortName>
+							<Path>SFX\200129_0008_0A6E1E1B.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1877847629" Name="door" ObjectPath="\Events\Default Work Unit\door" MaxAttenuation="3.000000" DurationType="OneShot" DurationMin="2.322562" DurationMax="2.322562">
+					<IncludedMemoryFiles>
+						<File Id="314451308" Language="SFX">
+							<ShortName>Porte Open Close by Slanesh Id-31768.wav</ShortName>
+							<Path>SFX\Porte Open Close by Slanesh Id-31768_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2385628198" Name="footsteps" ObjectPath="\Events\Default Work Unit\footsteps" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="16905668" Language="SFX">
+							<ShortName>Footsteps, Asphalt, Sneaker, Fast SND0990 5.wav</ShortName>
+							<Path>SFX\Footsteps, Asphalt, Sneaker, Fast SND0990 5_10C4C929.wem</Path>
+						</File>
+						<File Id="39803536" Language="SFX">
+							<ShortName>Footsteps, Asphalt, Sneaker, Fast SND0990.wav</ShortName>
+							<Path>SFX\Footsteps, Asphalt, Sneaker, Fast SND0990_10C4C929.wem</Path>
+						</File>
+						<File Id="76949878" Language="SFX">
+							<ShortName>Footsteps, Asphalt, Sneaker, Fast SND0990 4.wav</ShortName>
+							<Path>SFX\Footsteps, Asphalt, Sneaker, Fast SND0990 4_10C4C929.wem</Path>
+						</File>
+						<File Id="78124210" Language="SFX">
+							<ShortName>Footsteps, Asphalt, Sneaker, Fast SND0990 8.wav</ShortName>
+							<Path>SFX\Footsteps, Asphalt, Sneaker, Fast SND0990 8_10C4C929.wem</Path>
+						</File>
+						<File Id="482444667" Language="SFX">
+							<ShortName>Footsteps, Asphalt, Sneaker, Fast SND0990 3.wav</ShortName>
+							<Path>SFX\Footsteps, Asphalt, Sneaker, Fast SND0990 3_10C4C929.wem</Path>
+						</File>
+						<File Id="612044300" Language="SFX">
+							<ShortName>Footsteps, Asphalt, Sneaker, Fast SND0990 7.wav</ShortName>
+							<Path>SFX\Footsteps, Asphalt, Sneaker, Fast SND0990 7_10C4C929.wem</Path>
+						</File>
+						<File Id="709741056" Language="SFX">
+							<ShortName>Footsteps, Asphalt, Sneaker, Fast SND0990 6.wav</ShortName>
+							<Path>SFX\Footsteps, Asphalt, Sneaker, Fast SND0990 6_10C4C929.wem</Path>
+						</File>
+						<File Id="836620014" Language="SFX">
+							<ShortName>Footsteps, Asphalt, Sneaker, Fast SND0990 2.wav</ShortName>
+							<Path>SFX\Footsteps, Asphalt, Sneaker, Fast SND0990 2_10C4C929.wem</Path>
+						</File>
+						<File Id="911571356" Language="SFX">
+							<ShortName>Footsteps, Asphalt, Sneaker, Fast SND0990 1.wav</ShortName>
+							<Path>SFX\Footsteps, Asphalt, Sneaker, Fast SND0990 1_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2092055118" Name="garbage" ObjectPath="\Events\Default Work Unit\garbage" MaxAttenuation="3.000000" DurationType="OneShot" DurationMin="6.085767" DurationMax="6.085767">
+					<IncludedMemoryFiles>
+						<File Id="566991818" Language="SFX">
+							<ShortName>200129_0005.wav</ShortName>
+							<Path>SFX\200129_0005_43637F52.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1071740888" Name="Jumps" ObjectPath="\Events\Default Work Unit\Jumps" DurationType="OneShot" DurationMin="0.595556" DurationMax="0.595556">
+					<IncludedMemoryFiles>
+						<File Id="984978243" Language="SFX">
+							<ShortName>jump.wav</ShortName>
+							<Path>SFX\jump_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="94788501" Name="kurtka_beina" ObjectPath="\Events\Default Work Unit\kurtka_beina" MaxAttenuation="3.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="421134193" Language="SFX">
+							<ShortName>Nirvana - Drain You .wav</ShortName>
+							<Path>SFX\Nirvana - Drain You _F64EC318.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2992249820" Name="Play_Dog" ObjectPath="\Events\Default Work Unit\Play_Dog" MaxAttenuation="2.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="28628188" Language="SFX">
+							<ShortName>Animal, Dog, Doberman, Snarling, Growling, Barking SND0580.wav</ShortName>
+							<Path>SFX\Animal, Dog, Doberman, Snarling, Growling, Barking SND0580_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4234949920" Name="Play_lamp" ObjectPath="\Events\Default Work Unit\Play_lamp" MaxAttenuation="5.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="463196660" Language="SFX">
+							<ShortName>Old Fluorescent Fixture by jsandvik Id-399365.wav</ShortName>
+							<Path>SFX\Old Fluorescent Fixture by jsandvik Id-399365_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2932040671" Name="Play_music" ObjectPath="\Events\Default Work Unit\Play_music" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="53208766" Language="SFX">
+							<ShortName>Loop022 by bebeto Id-24039.wav</ShortName>
+							<Path>SFX\Loop022 by bebeto Id-24039_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4149525078" Name="Play_party" ObjectPath="\Events\Default Work Unit\Play_party" MaxAttenuation="3.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="514152845" Language="SFX">
+							<ShortName>Sound Of Party2 by soundhunterjulie Id-395314.wav</ShortName>
+							<Path>SFX\Sound Of Party2 by soundhunterjulie Id-395314_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2227957873" Name="rats" ObjectPath="\Events\Default Work Unit\rats" MaxAttenuation="3.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="586681340" Language="SFX">
+							<ShortName>Rat Gnawing A Rusk by Zabuhailo Id-143250.wav</ShortName>
+							<Path>SFX\Rat Gnawing A Rusk by Zabuhailo Id-143250_D79FB2B7.wem</Path>
+						</File>
+						<File Id="678129951" Language="SFX">
+							<ShortName>Mouse Squeaks by shyguy014 Id-463789.wav</ShortName>
+							<Path>SFX\Mouse Squeaks by shyguy014 Id-463789_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2807992953" Name="smoking" ObjectPath="\Events\Default Work Unit\smoking" DurationType="OneShot" DurationMin="5.994000" DurationMax="5.994000">
+					<IncludedMemoryFiles>
+						<File Id="424899818" Language="SFX">
+							<ShortName>200129_0009.wav</ShortName>
+							<Path>SFX\200129_0009_B5633201.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2924581117" Name="whistle" ObjectPath="\Events\Default Work Unit\whistle" DurationType="OneShot" DurationMin="7.733250" DurationMax="7.733250">
+					<IncludedMemoryFiles>
+						<File Id="908501038" Language="SFX">
+							<ShortName>Whistling by cemagar Id-120358.wav</ShortName>
+							<Path>SFX\Whistling by cemagar Id-120358_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>
